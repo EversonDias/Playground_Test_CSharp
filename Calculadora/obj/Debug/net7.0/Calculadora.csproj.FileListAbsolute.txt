@@ -1,0 +1,14 @@
+C:\Workspace\playgroudTest\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Workspace\playgroudTest\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Workspace\playgroudTest\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Workspace\playgroudTest\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Workspace\playgroudTest\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Workspace\playgroudTest\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
